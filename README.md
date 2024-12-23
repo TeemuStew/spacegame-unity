@@ -2,6 +2,8 @@
 
 The task of this test is to implement a very basic 2D shooting game.
 
+<img src="/docs/gameplay.gif" width="600" height="250"/>
+
 ## Technical Aspect
 
 For the technical aspect of this test, please implement the game as per the following specification:
