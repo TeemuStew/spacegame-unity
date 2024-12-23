@@ -1,13 +1,3 @@
-# Teemu notes
-## Additional Features and assumptions
-In addition to the required features, I have implemented several features to improve the gameplay experience, while keeping in mind the game is still in prototyping stage:
-
-- Shooting Cooldown (Anti-Spam Timer): I added a timer that prevents the player from spamming the shoot button to create a more balanced and strategic gameplay experience.
-- Despawn Mechanism: Items/bullets/enemies despawn after a certain time/movement to prevent the screen from becoming overcrowded with unused items.
-
-Throughout the development process, I made a few assumptions to improve the design and functionality:
-- Shooting in all directions: I assumed the player should be able to shoot in all directions, even diagonally.
-
 # 2D Shooting Game
 
 The task of this test is to implement a very basic 2D shooting game.
@@ -45,9 +35,3 @@ The game is in a prototyping stage. Keep this in mind, when building the game.
 ## Art Aspect
 
 For the art aspect of this test, please make the game look like a proper game by adding visual effects and sound effects. The design will be up to you and you are free to use any free-to-use assets that you can find on the internet.
-
-## Other Aspects
-
-Use this git repository to develop the game.
-
-Make sure the final commit compiles and is playable.
